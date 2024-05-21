@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @Wiiinterz
-- 👀 I’m interested in Video Games developement 
-- 🌱 I’m currently learning programs languages like C, python, Java
-- 💞️ I’m looking to collaborate with people
-- 📫 How to reach me marine.gendry@etu.unilim.fr
-- ⚡ Fun fact: I really love video games
+👋 Hi, I’m @Wiiinterz
+I am in the first year of BUT in computer science, 
+I know how to code in python properly, as well as in C and Java, 
+I have some knowledge of databases and SQL as well as HTML
 
 <!---
 Wiiinterz/Wiiinterz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
